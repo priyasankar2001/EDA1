@@ -148,7 +148,7 @@ This analysis reveals actionable insights for insurance companies:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YOUR_USERNAME/insurance-eda/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://https://github.com/priyasankar2001/insurance-eda/issues).
 
 ## 📝 License
 
@@ -157,8 +157,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- GitHub: [issues page](https://github.com/priyasankar2001)
+- LinkedIn: [issues page](www.linkedin.com/in/priya-sankar-mandal-2b0ab2215)
 
 ## 🙏 Acknowledgments
 
